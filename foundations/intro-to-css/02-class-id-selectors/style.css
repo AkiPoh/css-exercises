@@ -1,0 +1,18 @@
+p {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#second {
+    color: #5751ff;
+    font-size: 36px;
+}
+
+.twentyfour {
+    font-size: 24px;
+}
+
+.bold {
+    font-weight: bold;
+    background-color: greenyellow;
+}
